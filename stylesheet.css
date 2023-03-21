@@ -1,0 +1,23 @@
+html {
+	font-family: Georgia, Cambria, serif;
+	
+}
+
+nav {
+	background-color: yellow;
+	margin: auto;
+	width: 40%
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	boarder: groove;
+}
+
+body#main2 {
+	background-color: #800080;
+}
+
+
